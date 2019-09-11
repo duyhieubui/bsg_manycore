@@ -1,4 +1,4 @@
-//This kernel adds 2 vectors 
+//This kernel divides the first vector by the second and stores the results in the thrid vector 
 
 #include "bsg_manycore.h"
 #include "bsg_set_tile_x_y.h"

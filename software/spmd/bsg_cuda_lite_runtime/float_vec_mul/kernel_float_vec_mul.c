@@ -1,4 +1,4 @@
-//This kernel adds 2 vectors 
+//This kernel multiplies 2 vectors and stores the result in the thrid
 
 #include "bsg_manycore.h"
 #include "bsg_set_tile_x_y.h"

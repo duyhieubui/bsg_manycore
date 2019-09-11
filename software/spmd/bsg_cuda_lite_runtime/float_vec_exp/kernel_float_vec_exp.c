@@ -1,4 +1,4 @@
-//This kernel adds 2 vectors 
+//This kernel stores the exponential of the elements in the first vector into the second  
 
 #include "bsg_manycore.h"
 #include "bsg_set_tile_x_y.h"
